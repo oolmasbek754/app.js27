@@ -1,4 +1,4 @@
-  let x = 10;
+ let x = 10;
 
 // Assign the value 5 to x
 let x = 5;
